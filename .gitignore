@@ -1,0 +1,4 @@
+.project
+.settings/
+*.bak
+*.pdb
